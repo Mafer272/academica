@@ -1,4 +1,5 @@
 package com.gestion.academica.repository;
+//Curso
 
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;

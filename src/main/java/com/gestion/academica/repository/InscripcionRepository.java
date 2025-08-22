@@ -1,5 +1,5 @@
 package com.gestion.academica.repository;
-
+//inscripcion
 import java.math.BigDecimal;
 import java.util.List;
 import java.util.Optional;
